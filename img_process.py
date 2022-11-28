@@ -1,4 +1,4 @@
-from src.utils import calc_temps_in_bounding_box, drawBoundingBoxes
+from thermal.utils import calc_temps_in_bounding_box, drawBoundingBoxes
 import cv2
 
 test_img_file = "data/thermal_images/thermal_1.png"
